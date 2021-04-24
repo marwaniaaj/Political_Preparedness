@@ -5,5 +5,5 @@ object Constants {
     const val API_KEY = "AIzaSyA6JfufomUR1yB0Hy3xUqG7s0DTKJQ8C0M"
     const val ELECTION_QUERY = "elections"
     const val VOTER_INFO_QUERY = "voterinfo"
-
+    const val REPRESENTATIVE_QUERY = "representatives"
 }

@@ -14,6 +14,23 @@
     <string name="election_information">Election Information</string>
     <string name="follow_election">Follow Election</string>
     <string name="unfollow_election">Unfollow Election</string>
-    <string name="url_not_available">URL is not available</string>
+    <string name="representative_profile_photo">Representative profile photo</string>
+    <string name="representative_office_title">Representative Office Title</string>
+    <string name="representative_name">Representative Name</string>
+    <string name="representative_party">Representative Party</string>
+    <string name="web_Icon">Web icon</string>
+    <string name="facebook_icon">Facebook icon</string>
+    <string name="tweeter_icon">Tweeter icon</string>
+    <string name="use_my_location">Use My Location</string>
+    <string name="representative_search">Representative Search</string>
+    <string name="my_representatives">My Representatives</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="city">City</string>
+    <string name="zip">Zip</string>
 
+    <!-- Snack bar messages -->
+    <string name="url_not_available">URL is not available</string>
+    <string name="permission_denied">Permission is required in order to get your current location</string>
+    <string name="location_not_available">Location is not available</string>
 </resources>
