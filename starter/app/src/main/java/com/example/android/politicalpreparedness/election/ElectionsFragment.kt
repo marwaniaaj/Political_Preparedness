@@ -64,8 +64,8 @@ class ElectionsFragment: Fragment() {
     //COMPLETE: Declare ViewModel
     //COMPLETE: Add ViewModel values and create ViewModel
     //COMPLETE: Add binding values
-    //TODO: Link elections to voter info
+    //COMPELET: Link elections to voter info
     //COMPLETE: Initiate recycler adapters
     //COMPLETE: Populate recycler adapters
-    //TODO: Refresh adapters when fragment loads
+    //COMPLETE: Refresh adapters when fragment loads
 }
